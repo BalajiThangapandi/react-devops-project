@@ -1,0 +1,13 @@
+services:
+  react-app:
+    image: react-prod
+    container_name: react-container
+    ports:
+      - "80:80"
+
+
+
+
+
+
+
